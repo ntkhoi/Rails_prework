@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../RailsPreWork/.idea/RailsPreWork.iml" filepath="$PROJECT_DIR$/../RailsPreWork/.idea/RailsPreWork.iml" />
+      <module fileurl="file://D:/share/LearnRuby/blog/.idea/blog.iml" filepath="D:/share/LearnRuby/blog/.idea/blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../blogcoderschool/.idea/blogcoderschool.iml" filepath="$PROJECT_DIR$/../blogcoderschool/.idea/blogcoderschool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/railsblog.iml" filepath="$PROJECT_DIR$/.idea/railsblog.iml" />
+    </modules>
+  </component>
+</project>
