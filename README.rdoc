@@ -1,10 +1,4 @@
-**Pre-work - Rails simple blog app**
 
-Submitted by: Khoi Nguyen 
-
-Time spent: 8 hours spent 
-
-URL: [](http://ntkhoi-prework.herokuapp.com/)
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
